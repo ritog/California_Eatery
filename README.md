@@ -14,13 +14,13 @@ ___
 
 |Directory                             | Content                                                             |                Files|
 |--------------------------------------|---------------------------------------------------------------------|---------------------|
-|[Business Problem and Data Sources][1]|Contains the business problem and sources and examples of data used. | 1. [PDF][2]         |
-|                                      |                                                                     | 2. [Notebook][3]    |
-|[Notebook Usage][4]                   | Demonstrates the usage of notebooks for similar data.               | 1. [Notebook 1][5]  |
-|                                      |                                                                     | 2. [Notebook 2][6]  |
-|                                      |                                                                     | 3. [Notebook 3][7]  |
-|[Final Deliverables][8]               | Contains final project report and notebook with all code.           | 1. [Report][9]      |
-|                                      |                                                                     | 2. [Notebook][10]   |
+|[Business Problem and Data Sources][1]|Contains the business problem and sources and examples of data used. | [PDF][2]            |
+|                                      |                                                                     | [Notebook][3]       |
+|[Notebook Usage][4]                   | Demonstrates the usage of notebooks for similar data.               | [Notebook 1][5]     |
+|                                      |                                                                     | [Notebook 2][6]     |
+|                                      |                                                                     | [Notebook 3][7]     |
+|[Final Deliverables][8]               | Contains final project report and notebook with all code.           | [Report][9]         |
+|                                      |                                                                     | [Notebook][10]      |
 
 ___
 
